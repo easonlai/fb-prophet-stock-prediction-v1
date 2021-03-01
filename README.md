@@ -1,1 +1,2 @@
-# fb-prophet-stock-prediction-v1
+# Using Facebook Prophet model to predict HK stock price
+
